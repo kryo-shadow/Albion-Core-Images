@@ -1,0 +1,9 @@
+{
+  "repository": "Albion-Core-Images",
+  "version": 3,
+  "purpose": "All item/resource/equipment images separated from database; categories preserved.",
+  "image_count": 9218,
+  "classified_root": "items/",
+  "index": "image-index.json",
+  "city_flags": "cities/flags/"
+}
